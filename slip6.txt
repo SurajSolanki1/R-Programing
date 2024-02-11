@@ -1,0 +1,9 @@
+marks=c(77,95,34,45,56)
+subname=c("php","c lang","r prog","RDBMS","DBMS")
+barplot(marks, //reminder
+main="comparing subject and marks",
+xlab="name of subject",
+ylab="marks",
+names.arg=subname,
+col="red"
+)

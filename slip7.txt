@@ -1,0 +1,10 @@
+a=data.frame(
+name=c("om","sai","ram","sham","aniket"),
+adress=c("pune","shirdi","shrirampur","mumbai","delhi"),
+per=c(65,56,67,78,98)
+);
+print(a)
+print(a[order(a$name),])
+
+
+

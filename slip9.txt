@@ -1,0 +1,9 @@
+v=c("a","b","a","c","a","b")
+print("vector data")
+print(v)
+f=factor(v)
+print("factor of vector")
+print(f)
+print("change level of vector")
+levels(f)[1]="gg"
+print(f)

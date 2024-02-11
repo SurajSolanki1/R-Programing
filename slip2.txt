@@ -1,0 +1,5 @@
+a=c(20,30,90,23,45,67)
+print("asc order=")
+print(sort(a))
+print("dec order=")
+print(sort(a,decreasing=TRUE))

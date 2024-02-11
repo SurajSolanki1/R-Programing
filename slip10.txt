@@ -1,0 +1,15 @@
+print("list of cites")
+my_list=list("pune","delhi","mumbai")
+print(my_list)
+
+print("add element at the end of list")
+my_list[4]="shrirampur"
+print(my_list)
+
+print("remove last element from list")
+my_list[4]="NULL"
+print(my_list)
+
+print("update 3rd element from list")
+my_list[3]="shrirampur"
+print(my_list)

@@ -1,0 +1,6 @@
+print("first 10 letters in lowercase")
+print(head(letters,10))
+print("last 10 letters in uppercase")
+print(tail(LETTERS,10))
+print("letters from 22 to 24 uppercase")
+print(tail(LETTERS[22:24]))

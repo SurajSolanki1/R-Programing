@@ -1,0 +1,14 @@
+b=1001
+decimal=0
+r=0
+base=1
+while(b>0)
+{
+r=b%%10
+decimal=decimal+r*base
+b=b/10
+b=as.integer(b)
+base=base*2
+}
+base=as.integer(base)
+print(decimal)

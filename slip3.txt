@@ -1,0 +1,4 @@
+a=c("a","c","d","a","e")
+b=c("e","c","b","c","f")
+ans=setdiff(a,b)
+print(ans)

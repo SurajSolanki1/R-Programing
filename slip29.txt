@@ -1,0 +1,15 @@
+print("list of students")
+my_list=list("om","sai","ram")
+print(my_list)
+
+print("add student at the end")
+my_list[4]="sham"
+print(my_list)
+
+print("remove first student")
+my_list[1]="NULL"
+print(my_list)
+
+print("Update 2 student")
+my_list[3]="om"
+print(my_list)

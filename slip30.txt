@@ -1,0 +1,5 @@
+a=c("om","sai","ram","rohit","aniket")
+list_string=list(a)
+print(list_string)
+sort_string=sort(a)
+print(sort_string)

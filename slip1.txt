@@ -1,0 +1,3 @@
+a=c(20,30,90,23,45,67)
+sprintf("max=%d",max(a))
+sprintf("min=%d",min(a))
